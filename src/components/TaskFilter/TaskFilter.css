@@ -1,0 +1,30 @@
+#taskFilter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: white;
+  border: 1px solid lightgray;
+}
+
+.item-count {
+  padding: 10px;
+}
+
+.filters {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  min-height: 40px;
+}
+
+.filter-item {
+  padding: 10px;
+  padding-bottom: 5px;
+}
+
+.active {
+  border: 1px solid rgb(241,212,213);
+  background-image: linear-gradient(rgb(241,212,213), white, white);
+  border-radius: 5px;
+}

@@ -1,0 +1,17 @@
+#container{
+  background-color: rgb(245,245,245);
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+}
+
+.pinkish{
+color: rgb(241,212,213);
+}
+
+.large-text{
+  font-size: 64pt;
+}

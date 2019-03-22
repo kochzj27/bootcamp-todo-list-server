@@ -1,0 +1,26 @@
+#addTask {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  border: 1px solid lightgray;
+}
+
+.arrow-down {
+  font-size: 20pt;
+  margin-left: 10px;
+  padding: 15px;
+}
+
+#ltgray {
+  color: lightgray;
+}
+
+.taskInput {
+  width: 100%;
+  font-size: 18pt;
+  border: none;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-style: italic;
+}
